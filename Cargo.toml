@@ -1,0 +1,12 @@
+[package]
+name = "find-the-occurrence-of-first-almost-equal-substring"
+version = "0.1.0"
+edition = "2021"
+authors = ["aliezzahn <aliezzahn@gmail.com>"]
+description = "A Rust library to find the occurrence of the first almost equal substring."
+repository = "https://github.com/aliezzahn/find-the-occurrence-of-first-almost-equal-substring"
+license = "MIT"
+keywords = ["string", "substring", "pattern-matching"]
+categories = ["algorithms"]
+
+[dependencies]
